@@ -2,6 +2,9 @@
 
 This section will focus on migrating .NET and .NET core apps to AWS. 
 
+AWS Github repository for .NET Developers step by step guides for building solutions on AWS
+ https://github.com/aws-samples/aws-net-guides
+
 # .NET
 
 # .NET Core
