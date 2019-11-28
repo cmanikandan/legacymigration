@@ -1,1 +1,1 @@
-# legacymigration
+This repo will contain resources to help enterprises migrate legacy workloads to AWS !! This covers strategies for migrating applications, databases, implmenting security on a platform which facilitates hybrid deployments.
