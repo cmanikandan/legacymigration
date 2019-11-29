@@ -1,7 +1,10 @@
 # Landing Zone and Transit VPC 
 
-https://aws.amazon.com/answers/networking/aws-multiple-vpc-vpn-connection-sharing/
+
 ![Transit VPC solution on AWS](https://d1.awsstatic.com/aws-answers/answers-images/shared-services-transit-vpc.cd910ba0caae4eb37a7b8b731e661748073cd2f3.png)
+Credit: https://aws.amazon.com/answers/networking/aws-multiple-vpc-vpn-connection-sharing/
+
+
 
 
 Enabling self-service provisioning of AWS resources with AWS Control Tower - https://aws.amazon.com/blogs/mt/enabling-self-service-provisioning-of-aws-resources-with-aws-control-tower/
