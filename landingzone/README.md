@@ -2,6 +2,7 @@
 
 
 ![Transit VPC solution on AWS](https://d1.awsstatic.com/aws-answers/answers-images/shared-services-transit-vpc.cd910ba0caae4eb37a7b8b731e661748073cd2f3.png)
+
 Credit: https://aws.amazon.com/answers/networking/aws-multiple-vpc-vpn-connection-sharing/
 
 
