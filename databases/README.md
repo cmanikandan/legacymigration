@@ -1,5 +1,8 @@
 # Legacy Database Migration to AWS 
 
+![Database migration to AWS Mind Map](database-mindmap.png)
+
+
 AWS blogs -
 
 1. Creating Assessment Reports with AWS Schema Conversion Tool - https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_AssessmentReport.html
