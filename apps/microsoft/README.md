@@ -16,3 +16,8 @@ Migrating .NET Classic Applications to Amazon ECS Using Windows Containers - htt
 Target platform is AWS Fargate - https://github.com/aws-samples/amazon-ecs-fargate-aspnetcore 
 
 Build and monitor a secure Serverless app powered by AspNetCore WebApp on  AWS Lambda with Amazon Cognito and AWS X-Ray
+
+
+# Creating CI/CD pipelines for ASP.NET 4.x with AWS CodePipeline and AWS Elastic Beanstalk
+
+https://aws.amazon.com/blogs/devops/creating-ci-cd-pipelines-for-asp-net-4-x-with-aws-codepipeline-and-aws-elastic-beanstalk/
