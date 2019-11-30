@@ -11,6 +11,8 @@ Deploy a Traditional ASP.NET Application to Elastic Beanstalk  - https://docs.aw
 
 Migrating .NET Classic Applications to Amazon ECS Using Windows Containers - https://aws.amazon.com/blogs/compute/migrating-net-classic-applications-to-amazon-ecs-using-windows-containers/
 
+How do I customize my Elastic Beanstalk environment using .ebextensions? - https://aws.amazon.com/premiumsupport/knowledge-center/elastic-beanstalk-configuration-files/
+
 # .NET Core
 
 Target platform is AWS Fargate - https://github.com/aws-samples/amazon-ecs-fargate-aspnetcore 
