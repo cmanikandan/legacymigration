@@ -7,6 +7,8 @@ AWS Github repository for .NET Developers step by step guides for building solut
 
 # .NET
 
+NEW !! - AWS Web Application Migration Assistant is an interactive PowerShell utility that migrates any .NET applications from local IIS Windows servers to AWS Elastic Beanstalk - https://github.com/awslabs/windows-web-app-migration-assistant
+
 Deploy a Traditional ASP.NET Application to Elastic Beanstalk  - https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/deployment-beanstalk-traditional.html
 
 Migrating .NET Classic Applications to Amazon ECS Using Windows Containers - https://aws.amazon.com/blogs/compute/migrating-net-classic-applications-to-amazon-ecs-using-windows-containers/
